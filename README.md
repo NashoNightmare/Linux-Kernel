@@ -9,7 +9,8 @@ This is the respectively organized notes on Linux Kernel studying
 
 ### Inittab files
 - **Ubuntu**
-        - Back in the days **the "System-V" init service** was used in Ubuntu, and it used `/etc/inittab` file.
+        
+	- Back in the days **the "System-V" init service** was used in Ubuntu, and it used `/etc/inittab` file.
 	
 	- Some time ago (around 2006) **the "Upstart" init service** replaced System-V. Can use man inittab to get info.
 
